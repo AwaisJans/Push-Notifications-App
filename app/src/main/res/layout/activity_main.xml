@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    tools:context=".activities.MainActivity">
+
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_width="match_parent"
+        android:minHeight="60dp"
+        android:background="@color/colorP"
+        android:textSize="20sp"
+        android:paddingStart="20dp"
+        android:paddingEnd="0dp"
+        android:gravity="start|center"
+        android:textColor="@color/white"
+        android:textAllCaps="false"
+        android:text="Sample Push Notification App"
+        android:layout_height="wrap_content"/>
+
+
+
+
+
+
+
+
+
+</LinearLayout>
